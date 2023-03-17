@@ -58,5 +58,9 @@
   "43114": {
     "exchange": "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
     "wrappedNativeToken": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+  },
+  "1001": {
+    "exchange": "0xef01352610ffe924821afaa27a29ee048caa09b7",
+    "wrappedNativeToken": "0x7Dfd5E32a6b7BfBEF20e8A6cb4ad4424C2D4078e"
   }
 }
