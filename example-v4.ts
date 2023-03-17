@@ -1,5 +1,5 @@
 // @ts-nocheck
-:import { NftSwapV4, UserFacingERC721AssetDataSerializedV4, UserFacingERC20AssetDataSerializedV4 } from '@traderxyz/nft-swap-sdk';
+import { NftSwapV4, UserFacingERC721AssetDataSerializedV4, UserFacingERC20AssetDataSerializedV4 } from '@traderxyz/nft-swap-sdk';
 import { ethers } from 'ethers';
 
 // self calling async function
