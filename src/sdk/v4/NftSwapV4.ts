@@ -85,6 +85,8 @@ export enum SupportedChainIdsV4 {
   Fantom = 250,
   Celo = 42220,
   Avalance = 43114,
+  Baobab = 1001,
+  // Cypress = 8217, // soon - klaytn mainnet
   // Arbitrum = 42161, // soon
 }
 
