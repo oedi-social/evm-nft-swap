@@ -1,5 +1,5 @@
 {
-  "version": "0.31.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,8 +34,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@traderxyz/nft-swap-sdk",
-  "author": "johnrjj",
+  "name": "nft-swap-sdk-k",
+  "author": "klaytn-dev",
   "module": "dist/nft-swap-sdk.esm.js",
   "size-limit": [
     {
