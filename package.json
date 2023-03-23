@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "nft-swap-sdk-k",
+  "name": "evm-nft-swap",
   "author": "klaytn-dev",
   "module": "dist/nft-swap-sdk.esm.js",
   "size-limit": [
