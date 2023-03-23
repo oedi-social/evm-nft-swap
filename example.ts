@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { NftSwap } from '@traderxyz/nft-swap-sdk';
+import { NftSwap } from '@traderxyz/evm-nft-swap';
 
 // In this example, we'll swap CryptoPunk #420 for BoredApe #69
 const CRYPTOPUNK_420 = {

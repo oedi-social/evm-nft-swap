@@ -24,11 +24,11 @@ Our end goal is every piece of tech you see trader.xyz use (protocol, swap libra
 
 You can install the SDK with yarn:
 
-`yarn add @traderxyz/nft-swap-sdk`
+`yarn add @traderxyz/evm-nft-swap`
 
 or npm:
 
-`npm install @traderxyz/nft-swap-sdk`
+`npm install @traderxyz/evm-nft-swap`
 
 You can check out an example project [here](https://nft-swapping-demo.vercel.app/)
 or check out the example repo [here](https://github.com/HaidarEzio/NFTswap/tree/example-project)
@@ -38,7 +38,7 @@ or check out the example repo [here](https://github.com/HaidarEzio/NFTswap/tree/
 To use the SDK, create a new NftSwap instance.
 
 ```tsx
-import { NftSwap } from '@traderxyz/nft-swap-sdk';
+import { NftSwap } from '@traderxyz/evm-nft-swap';
 
 // From your app, provide NftSwap the web3 provider, signer for the user's wallet, and the chain id.
 const nftSwapSdk = new NftSwap(provider, signer, chainId);

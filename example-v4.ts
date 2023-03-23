@@ -4,7 +4,7 @@ import {
   UserFacingERC721AssetDataSerializedV4,
   UserFacingERC20AssetDataSerializedV4,
   SupportedChainIdsV4
-} from 'nft-swap-sdk-k';
+} from 'evm-nft-swap';
 import { ethers } from 'ethers';
 
 // self calling async function
